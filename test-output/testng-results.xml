@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-28T15:29:18 IST" name="Default suite" finished-at="2022-02-28T15:29:18 IST" duration-ms="69">
+    <groups>
+    </groups>
+    <test started-at="2022-02-28T15:29:18 IST" name="Default test" finished-at="2022-02-28T15:29:18 IST" duration-ms="69">
+      <class name="QAClickacademy.Mavenjava.APITest">
+        <test-method signature="apiAutomatiFirstMethod()[pri:0, instance:QAClickacademy.Mavenjava.APITest@21507a04]" started-at="2022-02-28T15:29:18 IST" name="apiAutomatiFirstMethod" finished-at="2022-02-28T15:29:18 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiAutomatiFirstMethod -->
+        <test-method signature="apiAutomationSecondMethod()[pri:0, instance:QAClickacademy.Mavenjava.APITest@21507a04]" started-at="2022-02-28T15:29:18 IST" name="apiAutomationSecondMethod" finished-at="2022-02-28T15:29:18 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiAutomationSecondMethod -->
+      </class> <!-- QAClickacademy.Mavenjava.APITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
